@@ -1,4 +1,5 @@
-![Uploading hugodiazbannerGITHUB.jpg…]()
+
+![hugodiazbannerGITHUB](https://github.com/user-attachments/assets/6afa18ed-8254-4881-8ec5-d6ea08d99a03)
 
 Mi nombre es Hugo Díaz Díaz. Soy un ingeniero biomédico apasionado por aprender y por integrar robótica, biomecánica e inteligencia artificial para mejorar la vida de las personas. He participado en el desarrollo de algoritmos de estimación de actitud y clasificación de marcha en nMotion, plataforma IMU de Nsilica, mientras finalizo mi TFG.
 
