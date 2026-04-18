@@ -10,7 +10,7 @@
 * Integration with embedded systems (Arduino)
 * Designed as a flexible playground for rapid robotics prototyping
 
-<img width="1400" height="620" alt="image" src="https://github.com/user-attachments/assets/ad147e73-fe9d-4006-921c-1fda8ed80116" />
+https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 
 ---
 
