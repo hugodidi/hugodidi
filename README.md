@@ -1,2 +1,25 @@
+<img width="1400" height="350" alt="hdidibanner" src="https://github.com/user-attachments/assets/d82cf7f5-eb6e-4e40-8d3f-2ced7fb6cef1" />
 
-![hugodiazbannerGITHUB](https://github.com/user-attachments/assets/6afa18ed-8254-4881-8ec5-d6ea08d99a03)
+---
+
+## Last projects
+###  [HomeRobot](https://github.com/hugodidi/home_robot). ROS2-based modular system for autonomous indoor robotics.
+
+* Real-time SLAM and navigation using Nav2
+* Task-level control through finite state machines
+* Integration with embedded systems (Arduino)
+* Designed as a flexible playground for rapid robotics prototyping
+
+<img width="1400" height="620" alt="image" src="https://github.com/user-attachments/assets/ad147e73-fe9d-4006-921c-1fda8ed80116" />
+
+---
+
+### [ANIMA](https://github.com/hugodidi/anima). Expressive eye interface for humanoid robots, focused on natural non-verbal interaction.
+
+* Biologically-inspired eye and eyelid animation model
+* Real-time reactive behavior generation from perception inputs
+* Parametric control of gaze, blinking, asymmetry and attention
+* Designed for integration in HRI scenarios with ROS-based systems
+
+<img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/30557ab5-d206-4676-97e4-17561b72c7be" />
+
