@@ -27,3 +27,18 @@
 
 <img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/30557ab5-d206-4676-97e4-17561b72c7be" />
 
+---
+
+### [rl_hnav](https://github.com/uleroboticsgroup/rl_hnav) (Contributing). Full-stack humanoid navigation and simulation pipeline for Unitree G1.
+
+- Extended ROS 2-based navigation pipeline integrating SLAM and Nav2 for humanoid locomotion  
+- Designed MuJoCo → Gazebo synchronization pipeline for consistent state replication  
+- Converted Gazebo into a real-time visualization layer (“puppet mode”) driven by MuJoCo  
+- Resolved joint state desynchronization and timing issues affecting TF and control loops  
+- Implemented joint state bridge with timestamp correction for ROS 2 compatibility  
+- Optimized LiDAR configuration for stable SLAM and navigation  
+- Designed deterministic launch orchestration for full system startup (Gazebo, SLAM, Nav2)  
+- Addressed sim-to-real inconsistencies in collision modeling and physics behavior  
+- Mitigated odometry drift caused by impact noise during dynamic locomotion
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/a6e5baa6-bbf3-409e-b6c0-ad23d8e41b2c" />
