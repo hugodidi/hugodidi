@@ -16,6 +16,10 @@
 
 ### [ANIMA](https://github.com/hugodidi/anima). Expressive eye interface for humanoid robots, focused on natural non-verbal interaction.
 
+> **Research Direction**  
+> Exploring biologically-inspired expressive systems for humanoid robots, currently in early-stage concept design.
+
+
 * Biologically-inspired eye and eyelid animation model
 * Real-time reactive behavior generation from perception inputs
 * Parametric control of gaze, blinking, asymmetry and attention
