@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 * Real-time reactive behavior generation from perception inputs
 * Parametric control of gaze, blinking, asymmetry and attention
 * Designed for integration in HRI scenarios with ROS-based systems
-* 
+  
 <img width="1773" height="922" alt="image" src="https://github.com/user-attachments/assets/70f4a4c0-54cb-42aa-9e0f-2be8228f8520" />
 
 ---
