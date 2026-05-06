@@ -14,16 +14,16 @@ https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 
 ---
 
-### [ANIMA](https://github.com/hugodidi/anima). Expressive eye interface for humanoid robots, focused on natural non-verbal interaction.
+### [ANIMA](https://github.com/hugodidi/anima). Expressive interface framework for human-robot interaction based on affective animation and social perception.
 
 > **Research Direction**  
-> Exploring biologically-inspired expressive systems for humanoid robots, currently in early-stage concept design.
+> ANIMA (Affective Natural Interaction through Memorable Animation) explores how animation-inspired expressive interfaces can enhance social presence, affective legibility and memorable interaction in humanoid robots. The project focuses especially on ocular expression as a core channel for non-verbal communication, while considering body gesture as a complementary and scalable expressive dimension.
 
-
-* Biologically-inspired eye and eyelid animation model
-* Real-time reactive behavior generation from perception inputs
-* Parametric control of gaze, blinking, asymmetry and attention
-* Designed for integration in HRI scenarios with ROS-based systems
+* Parametric ocular expression model for gaze, blinking, eyelid aperture, pupil dynamics, asymmetry and expressive timing
+* Animation-inspired design approach that prioritizes expressive legibility over anatomical facial realism
+* Real-time simulation and monitoring interface for designing, testing and debugging robot expressive states
+* ROS 2-oriented modular architecture for manual control, puppet control, perception inputs and future cognitive controllers
+* Designed as an expressive HRI layer, currently under development using the Unitree G1 as a case study and reference platform
   
 <img width="1773" height="922" alt="image" src="https://github.com/user-attachments/assets/70f4a4c0-54cb-42aa-9e0f-2be8228f8520" />
 
