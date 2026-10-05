@@ -10,14 +10,15 @@
 * Integration with embedded systems (Arduino)
 * Designed as a flexible playground for rapid robotics prototyping
 
-https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
+<img width="1920" height="1080" alt="FRONT_ANIMA" src="https://github.com/user-attachments/assets/6e06a029-4b78-4d6e-91ca-29ada4931daa" />
+<img width="1920" height="1080" alt="LEFT_ANIMA" src="https://github.com/user-attachments/assets/c6cbc3ca-9e17-448b-8936-c4840934e2ba" />
 
 ---
 
-### [ANIMA](https://github.com/hugodidi/anima). Expressive interface framework for human-robot interaction based on affective animation and social perception.
+### [NIMA](https://github.com/hugodidi/anima). Expressive interface framework for human-robot interaction based on affective animation and social perception.
 
 > **Research Direction**  
-> ANIMA (Affective Natural Interaction through Memorable Animation) explores how animation-inspired expressive interfaces can enhance social presence, affective legibility and memorable interaction in humanoid robots. The project focuses especially on ocular expression as a core channel for non-verbal communication, while considering body gesture as a complementary and scalable expressive dimension.
+> NIMA (Affective Natural Interaction through Memorable Animation) explores how animation-inspired expressive interfaces can enhance social presence, affective legibility and memorable interaction in humanoid robots. The project focuses especially on ocular expression as a core channel for non-verbal communication, while considering body gesture as a complementary and scalable expressive dimension.
 
 * Parametric ocular expression model for gaze, blinking, eyelid aperture, pupil dynamics, asymmetry and expressive timing
 * Animation-inspired design approach that prioritizes expressive legibility over anatomical facial realism
