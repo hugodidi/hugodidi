@@ -26,9 +26,11 @@ https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 * Designed as an expressive HRI layer, currently under development using the Unitree G1 as a case study and reference platform
   
 <img width="1920" height="1080" alt="FRONT_ANIMA" src="https://github.com/user-attachments/assets/6e06a029-4b78-4d6e-91ca-29ada4931daa" />
-<img width="1920" height="1080" alt="LEFT_ANIMA" src="https://github.com/user-attachments/assets/c6cbc3ca-9e17-448b-8936-c4840934e2ba" 
+<img width="1920" height="1080" alt="LEFT_ANIMA" src="https://github.com/user-attachments/assets/c6cbc3ca-9e17-448b-8936-c4840934e2ba" />
+
   
 ---
+
 
 ### [rl_hnav](https://github.com/uleroboticsgroup/rl_hnav) (Contributing). Full-stack humanoid navigation and simulation pipeline for Unitree G1.
 
