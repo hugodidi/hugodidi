@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 
 ---
 
-### [NIMA](https://github.com/hugodidi/anima). Expressive interface framework for human-robot interaction based on affective animation and social perception.
+### [NIMA](https://nimarobotics.com). Expressive interface framework for human-robot interaction based on affective animation and social perception.
 
 > **Research Direction**  
 > NIMA (Affective Natural Interaction through Memorable Animation) explores how animation-inspired expressive interfaces can enhance social presence, affective legibility and memorable interaction in humanoid robots. The project focuses especially on ocular expression as a core channel for non-verbal communication, while considering body gesture as a complementary and scalable expressive dimension.
@@ -24,9 +24,6 @@ https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 * Real-time simulation and monitoring interface for designing, testing and debugging robot expressive states
 * ROS 2-oriented modular architecture for manual control, puppet control, perception inputs and future cognitive controllers
 * Designed as an expressive HRI layer, currently under development using the Unitree G1 as a case study and reference platform
-  
-<img width="1920" height="1080" alt="FRONT_ANIMA" src="https://github.com/user-attachments/assets/6e06a029-4b78-4d6e-91ca-29ada4931daa" />
-<img width="1920" height="1080" alt="LEFT_ANIMA" src="https://github.com/user-attachments/assets/c6cbc3ca-9e17-448b-8936-c4840934e2ba" />
 
   
 ---
