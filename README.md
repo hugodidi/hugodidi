@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/b2f15919-0bd3-4bd0-8e44-a74e1bf75ad5
 * ROS 2-oriented modular architecture for manual control, puppet control, perception inputs and future cognitive controllers
 * Designed as an expressive HRI layer, currently under development using the Unitree G1 as a case study and reference platform
 
+
   
 ---
 
